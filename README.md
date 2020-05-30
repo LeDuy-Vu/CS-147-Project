@@ -1,2 +1,2 @@
 # CS-147-Project-Half-Precision-Arithmetic
-Implement arithmetic operations to handle half precision numbers in MIPS instructions
+For the solo project from my Computer Architecture class, I implemented arithmetic operations for half precision numbers in MIPS. MIPS instructions have functions to handle single and double precision numbers, but not half precision. Using Mars 4.5 (MIPS Assembler and Runtime Simulattor), I wrote MIPS code using algorithms to convert numbers between different precisions and provide basic arithmetic functions. You can download the latest version of Mars here: http://courses.missouristate.edu/kenvollmar/mars/
